@@ -1,0 +1,4 @@
+if __name__ == '__main__':
+
+export PYTHONPATH=${PYTHONPATH}:'/home/jarvis/Google Drive/meetup/4marc18/writing_modules'
+
